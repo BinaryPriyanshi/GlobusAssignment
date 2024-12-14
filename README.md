@@ -6,7 +6,7 @@ This project is a web application that uses React with Vite bundler for the fron
 ## Setup
 1. Clone this repository to your local system:
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/BinaryPriyanshi/GlobusAssignment.git
    ```
 2. Open two terminals:
    - **Terminal 1 (Frontend)**:
